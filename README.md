@@ -8,5 +8,5 @@ TO RUN THE SIMULATION:
 pip3 install -r requirements.txt
 ````
 ````sh
- python3 main.py
+python3 main.py
 ````
