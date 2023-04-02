@@ -5,9 +5,9 @@ import numpy as np
 
 class BrownianBoxSimulation:
 
-    LENGTH = 800
-    WIDTH = 300
-    EDGE_COLOR = 'red'
+    LENGTH = 400
+    WIDTH = 400
+    EDGE_COLOR = 'black'
     EDGE_WIDTH = 1
     ORIGIN = (0, 0)
 
@@ -67,6 +67,6 @@ class BrownianBoxSimulation:
         plt.axis('scaled')
         plt.show()
 
-box = brownianbox.BrownianBox()
+box = BrownianBoxSimulation()
 
 box.run_sim()
