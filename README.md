@@ -4,5 +4,5 @@ Brownian Motion of a ball-like object say robot in a confined space with random 
 TO RUN THE SIMULATION:
 1. Download the code
 2. Open a terminal and execute 
-```` python3 main.py
+````  python3 main.py
 ````
