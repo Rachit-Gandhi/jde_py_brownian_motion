@@ -5,5 +5,8 @@ TO RUN THE SIMULATION:
 1. Download the code
 2. Open a terminal and execute 
 ````sh
+pip3 install -r requirements.txt
+````
+````sh
  python3 main.py
 ````
