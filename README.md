@@ -20,5 +20,5 @@ TO RUN THE SIMULATION for Pygame
 pip3 install -r requirements.txt
 ````
 ````sh
-python3 main.py
+python3 main2.py
 ````
